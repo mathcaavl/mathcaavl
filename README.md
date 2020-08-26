@@ -22,7 +22,9 @@
 ### [A little more about me] :
 #### 🙋🏻‍♂️ Sou apaixonado por cultura nerd em geral, estudo por hobbie economia e filosofia. 
 #### Gosto de aprender e acredito no poder do compartilhamento de conhecimento e informação. Adoro trabalhar em grupo e aprender com os meus erros.
-#### 📷 Instagram: @cavalcan7i
+#### 📷 <a href="https://www.instagram.com/cavalcan7i_/"> Instagram </a>
+#### 🏆 <a href="https://pt.stackoverflow.com/users/173117/mateus-cavalcanti">Stack overflow</a>
+#### ✉️ mateuscavl1@gmail.com
 <hr>
 
 
