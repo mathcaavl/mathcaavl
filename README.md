@@ -15,7 +15,7 @@
 #### 👨🏻‍💻 Codar 
 #### 📖 Aprender
 #### 👥 Amizade
-#### 🍺 Beer
+#### 🍺 Cerveja
 <hr>
 
 ### [A little more about me] :
