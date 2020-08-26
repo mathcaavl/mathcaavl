@@ -9,6 +9,7 @@
 ##### ✔️ JavaScript
 ##### ✔️ JQuery
 ##### :hourglass: React...
+##### ✔️ Git / Github
 <hr>
 
 ### [Interests] :
