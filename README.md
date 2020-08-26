@@ -15,7 +15,7 @@
 ### [Interests] :
 #### 👨🏻‍💻 Codar 
 #### 📖 Aprender
-#### 👥 Amizade
+#### 👥 Amizades
 #### 🍺 Cerveja
 <hr>
 
