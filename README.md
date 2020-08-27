@@ -3,28 +3,28 @@
 <hr> 
 
 ### [Techs] :
-##### ✔️ HTML5
-##### ✔️ CSS3
-##### ✔️ Bootstrap 4
-##### ✔️ JavaScript
-##### ✔️ JQuery
-##### :hourglass: React...
-##### ✔️ Git / Github
+✔️ HTML5<br>
+✔️ CSS3<br>
+✔️ Bootstrap 4<br>
+✔️ JavaScript<br>
+✔️ JQuery<br>
+:hourglass: React...<br>
+✔️ Git / Github
 <hr>
 
 ### [Interests] :
-#### 👨🏻‍💻 Codar 
-#### 📖 Aprender
-#### 👥 Amizades
-#### 🍺 Cerveja
+👨🏻‍💻 Codar<br>
+📖 Aprender<br>
+👥 Amizades<br>
+🍺 Cerveja<br>
 <hr>
 
 ### [A little more about me] :
-#### 🙋🏻‍♂️ Sou apaixonado por cultura nerd em geral, estudo por hobbie economia e filosofia. 
-#### Gosto de aprender e acredito no poder do compartilhamento de conhecimento e informação. Adoro trabalhar em grupo e aprender com os meus erros.
-#### 📷 <a href="https://www.instagram.com/cavalcan7i_/"> Instagram </a>
-#### 🏆 <a href="https://pt.stackoverflow.com/users/173117/mateus-cavalcanti">Stack overflow</a>
-#### ✉️ mateuscavl1@gmail.com
+🙋🏻‍♂️ Sou apaixonado por cultura nerd em geral, estudo por hobbie economia e filosofia.
+Gosto de aprender e acredito no poder do compartilhamento de conhecimento e informação. Adoro trabalhar em grupo e aprender com os meus erros.<br><br>
+📷 <a href="https://www.instagram.com/cavalcan7i_/"> Instagram </a><br>
+🏆 <a href="https://pt.stackoverflow.com/users/173117/mateus-cavalcanti">Stack overflow</a><br>
+✉️ mateuscavl1@gmail.com<br>
 <hr>
 
 
