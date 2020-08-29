@@ -5,7 +5,7 @@
 <hr>
 
 #### Techs: 
-<img src="https://imgur.com/zMhYh4M">
+<img src="https://user-images.githubusercontent.com/60491966/91625431-aa907880-e97d-11ea-9f87-f5b9932ac172.png" width="30px">
 
 
 
