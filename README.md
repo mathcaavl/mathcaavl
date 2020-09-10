@@ -4,6 +4,10 @@
 ##### Me chamo Mateus Cavalcanti, tenho 22 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, tenho focado meus estudos para o Desenvolvimento Web, mais especificamente para o Front End. Sou completamente apaixonado por JavaScript e por tudo que ele é capaz de fazer.
 <hr>
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mathcaavl)](https://github.com/mathcaavl)
+<br/>
+![Shouganaii GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathcaavl&show_icons=true) 
+
 #### Techs: 
 <p float=left">
   <img src="https://user-images.githubusercontent.com/60491966/91625431-aa907880-e97d-11ea-9f87-f5b9932ac172.png" width="30px">
