@@ -4,9 +4,6 @@
 ##### Me chamo Mateus Cavalcanti, tenho 22 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, tenho focado meus estudos para o Desenvolvimento Web, mais especificamente para o Front End. Sou completamente apaixonado por JavaScript e por tudo que ele é capaz de fazer.
 <hr>
 
-![Shouganaii GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathcaavl&show_icons=true)
-<hr>
-
 #### Techs: 
 <p float=left">
   <img src="https://user-images.githubusercontent.com/60491966/91625431-aa907880-e97d-11ea-9f87-f5b9932ac172.png" width="30px">
@@ -22,6 +19,8 @@
 
 #### About-me
 ##### Além de amar programação, também sou apaixonado por filosofia, economia e cultura nerd em geral. Mais pra frente pretendo me aprofundar em UI/UX Design. Não dispenso um bom rock e uma boa cerveja geladinha 🤘🏻🍺
+
+![Shouganaii GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathcaavl&show_icons=true)
 
 #### Social Medias:
 
