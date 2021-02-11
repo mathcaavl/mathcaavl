@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-DCDCDC?style=flat&logo=mysql&logoColor=#ffffff)
 
 ![Postman](https://img.shields.io/badge/-Postman-DCDCDC?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-DCDCDC?style=flat&logo=gitpsot)
+![Git](https://img.shields.io/badge/-Git-DCDCDC?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-DCDCDC?style=flat&logo=github)
 
 [![Linkedin Badge](https://img.shields.io/badge/-MateusCavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-cavalcanti-931381202/)](https://www.linkedin.com/in/mateus-cavalcanti-931381202/)
